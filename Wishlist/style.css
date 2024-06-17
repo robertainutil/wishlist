@@ -1,0 +1,194 @@
+:root {
+    font-family: Inter, sans-serif;
+    font-feature-settings: 'liga' 1, 'calt' 1; 
+  }
+  @supports (font-variation-settings: normal) {
+    :root { font-family: InterVariable, sans-serif; }
+  } 
+.cabecalho {
+    text-align: center;
+    color: #107300;
+    font-weight: 1377px;
+    font-size: 13px;
+}
+.mercearia {
+    text-align: left;
+    color: #DC7516;
+    font-weight: 1377px;
+    font-size: 15px;
+}
+.arroz {
+    text-align: left;
+    color: #DC7516;
+    font-weight: 1377px;
+    font-size: 20px;
+}
+.feijao {
+    text-align: left;
+    color: #DC7516;
+    font-weight: 1377px;
+    font-size: 20px;
+}
+.oleo {
+    text-align: left;
+    color: #DC7516;
+    font-weight: 1377px;
+    font-size: 20px;
+}
+.acucar {
+    text-align: left;
+    color: #DC7516;
+    font-weight: 1377px;
+    font-size: 20px;
+}
+.sal {
+    text-align: left;
+    color: #DC7516;
+    font-weight: 1377px;
+    font-size: 20px;
+}
+.açougue {
+    text-align: left;
+    color: #F119F5;
+    font-weight: 1377px;
+    font-size: 15px;
+}
+.carnemoida {
+    text-align: left;
+    color: #F119F5;
+    font-weight: 1377px;
+    font-size: 20px;
+}
+.carnedefrango {
+    text-align: left;
+    color: #F119F5;
+    font-weight: 1377px;
+    font-size: 20px;
+}
+.salsichas {
+    text-align: left;
+    color: #F119F5;
+    font-weight: 1377px;
+    font-size: 20px;
+}
+.bacon {
+    text-align: left;
+    color: #F119F5;
+    font-weight: 1377px;
+    font-size: 20px;
+}
+.carnedeporco {
+    text-align: left;
+    color: #F119F5;
+    font-weight: 1377px;
+    font-size: 20px;
+}
+.higienepessoal {
+    text-align: left;
+    color: #E73434;
+    font-weight: 1377px;
+    font-size: 15px;
+}
+.shampoo {
+    text-align: left;
+    color: #E73434;
+    font-weight: 1377px;
+    font-size: 20px;
+}
+.sabonetes {
+    text-align: left;
+    color: #E73434;
+    font-weight: 1377px;
+    font-size: 20px;
+}
+.papelhigienico {
+    text-align: left;
+    color: #E73434;
+    font-weight: 1377px;
+    font-size: 20px;
+}
+.cremedental {
+    text-align: left;
+    color: #E73434;
+    font-weight: 1377px;
+    font-size: 20px;
+}
+.desodorante {
+    text-align: left;
+    color: #E73434;
+    font-weight: 1377px;
+    font-size: 20px;
+}
+.feira {
+    text-align: left;
+    color: #BECD12;
+    font-weight: 1377px;
+    font-size: 15px;
+}
+.ovos {
+    text-align: left;
+    color: #BECD12;
+    font-weight: 1377px;
+    font-size: 20px;
+}
+.cebola {
+    text-align: left;
+    color: #BECD12;
+    font-weight: 1377px;
+    font-size: 20px;
+}
+.alho {
+    text-align: left;
+    color: #BECD12;
+    font-weight: 1377px;
+    font-size: 20px;
+}
+.frutas {
+    text-align: left;
+    color: #BECD12;
+    font-weight: 1377px;
+    font-size: 20px;
+}
+.verduras {
+    text-align: left;
+    color: #BECD12;
+    font-weight: 1377px;
+    font-size: 20px;
+}
+.produtosdelimpeza {
+    text-align: left;
+    color: #273DFF;
+    font-weight: 1377px;
+    font-size: 15px;
+}
+.aguasanitaria {
+    text-align: left;
+    color: #273DFF;
+    font-weight: 1377px;
+    font-size: 20px;
+}
+.sabaoembarra {
+    text-align: left;
+    color: #273DFF;
+    font-weight: 1377px;
+    font-size: 20px;
+}
+.amaciante {
+    text-align: left;
+    color: #273DFF;
+    font-weight: 1377px;
+    font-size: 20px;
+}
+.detergente {
+    text-align: left;
+    color: #273DFF;
+    font-weight: 1377px;
+    font-size: 20px;
+}
+.multiuso {
+    text-align: left;
+    color: #273DFF;
+    font-weight: 1377px;
+    font-size: 20px;
+}
+
